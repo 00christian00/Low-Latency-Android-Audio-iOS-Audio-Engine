@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "SuperpoweredInternal::SuperpoweredInternal(char const*, unsigned int, unsigned int):SuperpoweredInternal.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "buffersize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
